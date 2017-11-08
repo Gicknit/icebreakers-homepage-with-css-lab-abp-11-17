@@ -57,3 +57,7 @@ h3#header{
 main{
   margin-top: 20px;
 }
+
+div.jumbotron{
+  border-radius: 5px;
+}
