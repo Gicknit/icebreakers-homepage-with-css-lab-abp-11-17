@@ -39,3 +39,6 @@ nav a:hover{
 }
 
 /*HEADER*/
+h3#header{
+  float: left;
+}
