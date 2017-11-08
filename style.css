@@ -58,6 +58,7 @@ main{
   margin-top: 20px;
 }
 
+/*JUMBORTON*/
 div.jumbotron{
   border-radius: 5px;
   background-color: #e9ecef;
@@ -74,3 +75,4 @@ div.jumbotron{
   padding: 0 40px 0 40px;
   line-height: 40px;
 }
+
